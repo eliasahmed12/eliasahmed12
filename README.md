@@ -25,10 +25,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasahmed12&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eliasahmed12)  
-
-![GitHub metrics](https://metrics.lecoq.io/eliasahmed12)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=eliasahmed12)  
 
 ![Profile views](https://gpvc.arturio.dev/eliasahmed12)  
