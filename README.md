@@ -7,7 +7,7 @@
 
 I'am Back End Web Developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learing and shareing my knowledge with other as publicly as possible. I love to solve real-world problem. I enjoy working with include JavaScrip as well as PHP.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/PHP
+Skills: VUE JS / REACT / JS / HTML / CSS /PHP /Laravel 
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
